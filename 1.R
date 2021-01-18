@@ -1,12 +1,10 @@
 # problem 1
 
-sum = 0
-for (i in 3:999) {
-  if (i %% 3 == 0 | i %% 5 == 0) {
-    sum = sum + i
-  }
-}
+start_time <- Sys.time()
 
-# note that if we had to solve this same problem but for a larger set we would like
-# to split it in two parts. Calculate the sum of the multiples of 3 and do the same
-# for the multiples of 5.
+candidates <- 1:999
+sum <- sum(candidates[candidates %% 3 == 0 | candidates %% 5 == 0])
+
+end_time <- Sys.time()
+end_time - start_time
+
