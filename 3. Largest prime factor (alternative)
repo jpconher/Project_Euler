@@ -4,7 +4,7 @@ start_time <- Sys.time()
 
 number <- 600851475143
 
-prime_factors <- function(n){
+prime_factors <- function(number){
   factors <- vector()
   while(number %% 2 == 0){ # we treat 2 as a separate case because it is the only even prime factor
     number <- number/2
