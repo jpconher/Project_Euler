@@ -20,7 +20,7 @@ def prime_factors(number):
     while number > 1:
         candidates = [6*i-1,6*i+1] #all primes > 3 can be written in that form
         for candidate in candidates:
-            if check_prime(candidate, factors): 
+            if check_prime(candidate,factors): 
                 while number % candidate == 0:
                     number = number/candidate
                     factors.append(candidate)
