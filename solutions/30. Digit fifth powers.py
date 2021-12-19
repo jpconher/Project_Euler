@@ -27,6 +27,4 @@ while i < 9**5*len(str(i)):
                     i = int(i)
                     break
             if j == len(digits)-1:
-                i +=1
-                        
-                
+                i += 10-digits[j]
