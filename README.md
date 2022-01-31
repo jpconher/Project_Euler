@@ -4,4 +4,5 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 
 1. [Multiples of 3 and 5](https://github.com/jpconher/Project_Euler/blob/main/solutions/Multiples%20of%203%20and%205.py)
 2. [Even Fibonacci numbers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Even%20Fibonacci%20numbers.py)
+3. [Largest prime factor](https://github.com/jpconher/Project_Euler/blob/main/solutions/Largest%20prime%20factor.py)
 
