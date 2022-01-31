@@ -30,4 +30,5 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 26. [Reciprocal cycles](https://github.com/jpconher/Project_Euler/blob/main/solutions/Reciprocal%20cycles.py)
 27. [Quadratic primes](https://github.com/jpconher/Project_Euler/blob/main/solutions/Quadratic%20primes.py)
 28. [Number spiral diagonals](https://github.com/jpconher/Project_Euler/blob/main/solutions/Number%20spiral%20diagonals.py)
-29. [Digit fifth powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20fifth%20powers.py)
+29. [Distinct powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Distinct%20powers.py)
+30. [Digit fifth powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20fifth%20powers.py)
