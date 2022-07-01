@@ -32,3 +32,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 28. [Number spiral diagonals](https://github.com/jpconher/Project_Euler/blob/main/solutions/Number%20spiral%20diagonals.py)
 29. [Distinct powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Distinct%20powers.py)
 30. [Digit fifth powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20fifth%20powers.py)
+31. [Coin sums](https://github.com/jpconher/Project_Euler/blob/main/solutions/Coin%20sums.py)
