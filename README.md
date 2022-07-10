@@ -35,4 +35,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 31. [Coin sums](https://github.com/jpconher/Project_Euler/blob/main/solutions/Coin%20sums.py)
 32. [Pandigital products](https://github.com/jpconher/Project_Euler/blob/main/solutions/Pandigital%20products.py)
 33. [Digit cancelling fractions](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20cancelling%20fractions.py)
-34. [Digit factorials)(https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20factorials.py)
+34. [Digit factorials](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20factorials.py)
