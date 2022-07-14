@@ -37,3 +37,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 33. [Digit cancelling fractions](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20cancelling%20fractions.py)
 34. [Digit factorials](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20factorials.py)
 35. [Circular primes](https://github.com/jpconher/Project_Euler/blob/main/solutions/Circular%20primes.py)
+36. [Double-base palindromes](https://github.com/jpconher/Project_Euler/blob/main/solutions/Double-base%20palindromes.py)
