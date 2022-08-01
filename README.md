@@ -40,3 +40,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 36. [Double-base palindromes](https://github.com/jpconher/Project_Euler/blob/main/solutions/Double-base%20palindromes.py)
 37. [Truncatable primes](https://github.com/jpconher/Project_Euler/blob/main/solutions/Truncatable%20primes.py)
 38. [Pandigital multiples](https://github.com/jpconher/Project_Euler/blob/main/solutions/Pandigital%20multiples.py)
+39. [Integer right triangles](https://github.com/jpconher/Project_Euler/blob/main/solutions/Integer%20right%20triangles.py)
