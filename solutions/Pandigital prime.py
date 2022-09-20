@@ -43,8 +43,3 @@ while True:
         break
     else:
         candidate_pandigital = next_pandigital(candidate_pandigital)
-        
-    
-
-
-
