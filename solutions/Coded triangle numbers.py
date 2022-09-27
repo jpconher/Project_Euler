@@ -30,6 +30,3 @@ triangle_words = []
 for word in word_list.iloc[0]:
     if is_triangle_word(word,triangle_numbers):
         triangle_words.append(word)
-        
-        
-    
