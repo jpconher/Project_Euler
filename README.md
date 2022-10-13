@@ -44,3 +44,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 40. [Champernowne's constant](https://github.com/jpconher/Project_Euler/blob/main/solutions/Champernowne's%20constant.py)
 41. [Pandigital prime](https://github.com/jpconher/Project_Euler/blob/main/solutions/Pandigital%20prime.py)
 42. [Coded triangle numbers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Coded%20triangle%20numbers.py)
+43. [Sub-string divisibility](https://github.com/jpconher/Project_Euler/blob/main/solutions/Sub-string%20divisibility.py)
