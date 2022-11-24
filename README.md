@@ -46,3 +46,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 42. [Coded triangle numbers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Coded%20triangle%20numbers.py)
 43. [Sub-string divisibility](https://github.com/jpconher/Project_Euler/blob/main/solutions/Sub-string%20divisibility.py)
 44. [Pentagon numbers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Pentagon%20number.py)
+45. [Triangular, pentagonal and hexagonal](https://github.com/jpconher/Project_Euler/blob/main/solutions/Triangular%2C%20pentagonal%2C%20and%20hexagonal.py)
