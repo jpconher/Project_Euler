@@ -49,3 +49,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 45. [Triangular, pentagonal and hexagonal](https://github.com/jpconher/Project_Euler/blob/main/solutions/Triangular%2C%20pentagonal%2C%20and%20hexagonal.py)
 46. [Goldbach's other conjecture](https://github.com/jpconher/Project_Euler/blob/main/solutions/Goldbach's%20other%20conjecture.py)
 47. [Distinct prime factors](https://github.com/jpconher/Project_Euler/blob/main/solutions/Distinct%20primes%20factors.py)
+48. [Self powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Self%20powers.py)
