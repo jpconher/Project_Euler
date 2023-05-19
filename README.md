@@ -52,3 +52,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 48. [Self powers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Self%20powers.py)
 49. [Prime permutations](https://github.com/jpconher/Project_Euler/blob/main/solutions/Prime%20permutations.py)
 50. [Consecutive prime sum](https://github.com/jpconher/Project_Euler/blob/main/solutions/Consecutive%20prime%20sum.py)
+51. [Prime digit replacements](https://github.com/jpconher/Project_Euler/blob/main/solutions/Prime%20digit%20replacements.py)
