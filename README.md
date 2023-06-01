@@ -57,3 +57,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 53. [Combinatoric selections](https://github.com/jpconher/Project_Euler/blob/main/solutions/Combinatoric%20selections.py)
 54. [Poker hands](https://github.com/jpconher/Project_Euler/blob/main/solutions/Poker%20hands.py)
 55. [Lychrel numbers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Lychrel%20numbers.py)
+56. [Powerful digit sum](https://github.com/jpconher/Project_Euler/blob/main/solutions/Powerful%20digit%20sum.py)
