@@ -60,3 +60,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 56. [Powerful digit sum](https://github.com/jpconher/Project_Euler/blob/main/solutions/Powerful%20digit%20sum.py)
 57. [Square root convergents](https://github.com/jpconher/Project_Euler/blob/main/solutions/Square%20root%20convergents.py)
 58. [Spiral primes](https://github.com/jpconher/Project_Euler/blob/main/solutions/Spiral%20primes.py)
+59. [XOR decryption](https://github.com/jpconher/Project_Euler/blob/main/solutions/XOR%20decryption.py)
