@@ -40,6 +40,7 @@ while not result:
             elif len(str(p_n)) > 4:
                 break
             i += 1
+    # obtain result
     for o in polygonal_numbers['Octogonal']:
         for h in polygonal_numbers['Heptagonal']:
             for hexa in polygonal_numbers['Hexagonal']:
