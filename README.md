@@ -63,3 +63,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 59. [XOR decryption](https://github.com/jpconher/Project_Euler/blob/main/solutions/XOR%20decryption.py)
 60. [Prime pair sets](https://github.com/jpconher/Project_Euler/blob/main/solutions/Prime%20pair%20sets.py)
 61. [Cyclical figurative numbers](https://github.com/jpconher/Project_Euler/blob/main/solutions/Cyclical%20figurative%20numbers.py)
+62. [Cubic permutations](https://github.com/jpconher/Project_Euler/blob/main/solutions/Cubic%20permutations.py)
