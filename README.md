@@ -66,4 +66,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 62. [Cubic permutations](https://github.com/jpconher/Project_Euler/blob/main/solutions/Cubic%20permutations.py)
 63. [Powerful digit counts](https://github.com/jpconher/Project_Euler/blob/main/solutions/Powerful%20digit%20counts.py)
 64. [Odd period square roots](https://github.com/jpconher/Project_Euler/blob/main/solutions/Odd%20period%20square%20roots.py)
-64*. [Odd period square roots (revisited)](https://github.com/jpconher/Project_Euler/blob/main/solutions/Odd%20period%20square%20roots%20(revisited).py) 
+* [Odd period square roots (revisited)](https://github.com/jpconher/Project_Euler/blob/main/solutions/Odd%20period%20square%20roots%20(revisited).py) 
