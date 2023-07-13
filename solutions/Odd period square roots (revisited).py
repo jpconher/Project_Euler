@@ -12,19 +12,13 @@ def scf(n):
         else:
             m = a[-1]
             den = 1
-            while True:
+            while a[-1] != 2*a[0]:
                 num = n**0.5 + m
                 den = (n - m**2)/den
                 a.append(int(num/den))
-                if a[-1] == 2*a[0]:
-                    return [a[0], tuple(a[1:])]
                 m = a[-1]*den - m
-      
-odd_period = 0
-for i in range(1,10000):
-    if i**0.5 % 1 == 0: # perfect square
-        continue
-    elif len(scf(i)[1]) % 2 != 0:
-        odd_period += 1
+            return [a[0], tuple(a[1:])]
+        
+odd_period = sum(1 for i in range(1, 10000) if (i**0.5 % 1 != 0) and (len(scf(i)[1]) % 2 != 0))
     
 print("Number of odd periods:", odd_period)
