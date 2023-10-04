@@ -71,3 +71,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 66. [Diophantine equation](https://github.com/jpconher/Project_Euler/blob/main/solutions/Diophantine%20equation.py)
 67. [Maximum path sum II](https://github.com/jpconher/Project_Euler/blob/main/solutions/Maximum%20path%20sum%20II.py)
 68. [Magic 5-gon ring](https://github.com/jpconher/Project_Euler/blob/main/solutions/Magic%205-gon%20Ring)
+69. [Totient maximum](https://github.com/jpconher/Project_Euler/blob/main/solutions/Totient%20maximum.py)
