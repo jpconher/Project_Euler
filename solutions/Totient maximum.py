@@ -29,6 +29,7 @@ for i in range(2, n + 1):
     if divisors == [i]: # prime number
         continue 
     if len(divisors) == len(set(divisors)) and all(x in primes for x in divisors): # distinct prime factors 
+        # apply Euler's totient function to get number of relative primes
         relative_primes = i
         for p in divisors:
             relative_primes = relative_primes*(1-1/p)
