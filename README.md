@@ -72,3 +72,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 67. [Maximum path sum II](https://github.com/jpconher/Project_Euler/blob/main/solutions/Maximum%20path%20sum%20II.py)
 68. [Magic 5-gon ring](https://github.com/jpconher/Project_Euler/blob/main/solutions/Magic%205-gon%20Ring.py)
 69. [Totient maximum](https://github.com/jpconher/Project_Euler/blob/main/solutions/Totient%20maximum.py)
+* [Totient maximum (more efficient)](https://github.com/jpconher/Project_Euler/blob/main/solutions/Totient%20Maximum%20(more%20efficient).py)
