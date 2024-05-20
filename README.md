@@ -74,3 +74,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 69. [Totient maximum](https://github.com/jpconher/Project_Euler/blob/main/solutions/Totient%20maximum.py)
 * [Totient maximum (more efficient)](https://github.com/jpconher/Project_Euler/blob/main/solutions/Totient%20Maximum%20(more%20efficient).py)
 70. [Totient permutation](https://github.com/jpconher/Project_Euler/blob/main/solutions/Totient%20permutation.py)
+71. [Ordered fractions](https://github.com/jpconher/Project_Euler/blob/main/solutions/Ordered%20Fractions.py)
