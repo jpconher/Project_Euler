@@ -77,3 +77,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 71. [Ordered fractions](https://github.com/jpconher/Project_Euler/blob/main/solutions/Ordered%20Fractions.py)
 72. [Counting fractions](https://github.com/jpconher/Project_Euler/blob/main/solutions/Counting%20fractions.py)
 73. [Counting fractions in a Range](https://github.com/jpconher/Project_Euler/blob/main/solutions/Counting%20fractions%20in%20a%20range.py)
+74. [Digit factorial chains](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20factorial%20chains.py)
