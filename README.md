@@ -78,3 +78,4 @@ In this repository, you can find my proposed solutions to Project Euler's proble
 72. [Counting fractions](https://github.com/jpconher/Project_Euler/blob/main/solutions/Counting%20fractions.py)
 73. [Counting fractions in a Range](https://github.com/jpconher/Project_Euler/blob/main/solutions/Counting%20fractions%20in%20a%20range.py)
 74. [Digit factorial chains](https://github.com/jpconher/Project_Euler/blob/main/solutions/Digit%20factorial%20chains.py)
+75. [Singular integer right triangles](https://github.com/jpconher/Project_Euler/blob/main/solutions/Singular%20integer%20right%20triangles.py)
